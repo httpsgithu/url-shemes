@@ -32,3 +32,5 @@ ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Fl
 ```
 ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Flogin%3Dq%40q.ru%26key%3D7694f4a66316e53c8cdd9d9954bd611d
 ```
+
+[e@e.ru](ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Flogin%3De%40e.ru%26key%3D3f79bb7b435b05321651daefd374cdc681dc06faa65e374e38337b88ca046dea)
