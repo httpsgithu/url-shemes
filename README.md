@@ -1,40 +1,27 @@
-## Кирилл привет. Тут все URL схемы которые должны работать у Закона и скорее всего они не раюотают
+## Кирилл привет. Тут все URL схемы которые должны работать у Закона
 
-[Открытие экрана авторизации, где должен быть введен email](ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=2&url0=self%3A%2F%2FAUTH%3Flogin%3Dw@w.ru)
+[Открытие экрана авторизации, где должен быть введен email](ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Flogin%3Dw@w.ru)
 
-
-You can use the [editor on GitHub](https://github.com/zr4x/url-shemes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Flogin%3Dw@w.ru
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Авторизация пользователя](ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Flogin%3Dw%40w.ru%26key%3D50e721e49c013f00c62cf59f2163542a9d8df02464efeb615d31051b0fddc326)
 
-### Jekyll Themes
+```
+ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Flogin%3Dw%40w.ru%26key%3D50e721e49c013f00c62cf59f2163542a9d8df02464efeb615d31051b0fddc326
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zr4x/url-shemes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Авторизация пользователя и скаичвание выпуска Закон.2018 #7](ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=2&url0=self%3A%2F%2FAUTH%3Flogin%3Dw%40w.ru%26key%3D50e721e49c013f00c62cf59f2163542a9d8df02464efeb615d31051b0fddc326&url1=self%3A%2F%2FOPEN%3Fname%3DISSUE%26productId%3Dzakon_7_2018%26canStartDownload%3Dtrue)
 
-### Support or Contact
+```
+ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=2&url0=self%3A%2F%2FAUTH%3Flogin%3Dw%40w.ru%26key%3D50e721e49c013f00c62cf59f2163542a9d8df02464efeb615d31051b0fddc326&url1=self%3A%2F%2FOPEN%3Fname%3DISSUE%26productId%3Dzakon_7_2018%26canStartDownload%3Dtrue
+```
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[URL схема с логином, но без пароля. И со скачиванием выпуска. После того как пользователь введт пароль, должно начатсья скачивание выпуска](ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=2&url0=self%3A%2F%2FAUTH%3Flogin%3Dw%40w.ru&url1=self%3A%2F%2FOPEN%3Fname%3DISSUE%26productId%3Dzakon_7_2018%26canStartDownload%3Dtrue)
+
+```
+ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=2&url0=self%3A%2F%2FAUTH%3Flogin%3Dw%40w.ru&url1=self%3A%2F%2FOPEN%3Fname%3DISSUE%26productId%3Dzakon_7_2018%26canStartDownload%3Dtrue
+```
+
+
