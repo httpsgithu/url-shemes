@@ -26,7 +26,7 @@ ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=2&url0=self%3A%2F%2FAUTH%3Fl
 
 [Тест перелогина аккаунт w@w.ru](ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Flogin%3Dw%40w.ru%26key%3D50e721e49c013f00c62cf59f2163542a9d8df02464efeb615d31051b0fddc326)
 ```
-ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Flogin%3Dw%40w.ru%26key%3Df1290186a5d0b1ceab27f4e77c0c5d68
+ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Flogin%3Dw%40w.ru%26key%3D50e721e49c013f00c62cf59f2163542a9d8df02464efeb615d31051b0fddc326
 ```
 [Тест перелогина аккаунт q@q.ru](ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Flogin%3Dq%40q.ru%26key%3D7694f4a66316e53c8cdd9d9954bd611d)
 ```
