@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Кирилл привет. Тут все URL схемы которые должны работать у Закона и скорее всего они не раюотают
+
+[Открытие экрана авторизации, где должен быть введен email](ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=2&url0=self%3A%2F%2FAUTH%3Flogin%3Dw@w.ru)
+
 
 You can use the [editor on GitHub](https://github.com/zr4x/url-shemes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
