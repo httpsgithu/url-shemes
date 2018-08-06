@@ -45,8 +45,8 @@ ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Fl
 ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Flogin%3De%40e.ru%26key%3De1671797c52e15f763380b45e841ec32
 `
 
-[Список подписок](ru.zakon.journals://subscription/list)
+[Список подписок](ru.zakon.journals://subscription/)
 
 `
-ru.zakon.journals://subscription/list
+ru.zakon.journals://subscription/
 `
