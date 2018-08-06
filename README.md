@@ -8,7 +8,7 @@
 `
 ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Flogin%3Dw@w.ru
 `
-***
+---
 [Авторизация пользователя](ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Flogin%3Dw%40w.ru%26key%3Df1290186a5d0b1ceab27f4e77c0c5d68)
 
 `
