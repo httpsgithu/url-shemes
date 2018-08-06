@@ -3,7 +3,7 @@
 #### Все тесты проводить на `https://controlpublisher.napoleonit.com:8443/ `
 #### Все пароли указанны в `md5`
 
-#####[Открытие экрана авторизации, где должен быть введен email](ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Flogin%3Dw@w.ru)
+##### [Открытие экрана авторизации, где должен быть введен email](ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Flogin%3Dw@w.ru)
 
 `
 ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Flogin%3Dw@w.ru
