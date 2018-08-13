@@ -50,3 +50,5 @@ ru.zakon.journals://MULTIPLE?order=CONSEQUENT&count=1&url0=self%3A%2F%2FAUTH%3Fl
 `
 ru.zakon.journals://subscription/
 `
+
+[нид](https://itunes.apple.com/us/app/megaflowers/id1326072262?ls=1&mt=8)
