@@ -54,3 +54,5 @@ ru.zakon.journals://subscription/
 [нид](https://itunes.apple.com/us/app/megaflowers/id1326072262?ls=1&mt=8)
 
 [ШИНКА ХОУМ](shininvest://home)
+
+[ALOE](tg://resolve?domain=ALOEsmart)
