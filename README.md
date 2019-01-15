@@ -55,4 +55,4 @@ ru.zakon.journals://subscription/
 
 [ШИНКА ХОУМ](shininvest://home)
 
-[ALOE](shininvest://catalog/openCategory/?id=45f8a5c3-c106-4114-9854-42f748fe1b47&filters[]=%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B5)
+[ALOE](shininvest://catalog/openCategory/?id=45f8a5c3-c106-4114-9854-42f748fe1b47)
