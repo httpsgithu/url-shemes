@@ -59,4 +59,4 @@ ru.zakon.journals://subscription/
 
 [SHINKA DYNAMIC LINK](https://shininvest.page.link/offer_develop)
 
-[SHINKA DEV GO TO TIRES WITH FILTER BY NAME](shininvest://catalog/openCategory?id=54cf2a49-4537-4589-8091-226ea7da08af&filters=manufacturer=Nokian)
+[SHINKA DEV GO TO TIRES WITH FILTER BY NAME](shininvest://catalog/openCategory?id=45f8a5c3-c106-4114-9854-42f748fe1b47&filters=manufacturer=Nokian)
