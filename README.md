@@ -1,5 +1,4 @@
-## Кирилл привет. Тут все URL схемы которые должны работать у Закона
-
+[shinka](shininvest://catalog/openOffer?id=165d5344-179e-448a-860e-71d3e269444d)
 #### Все тесты проводить на `https://controlpublisher.napoleonit.com:8443/ `
 #### Все пароли указанны в `md5`
 
