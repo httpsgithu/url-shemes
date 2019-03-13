@@ -1,4 +1,4 @@
-[shinka Ё-wheels](shininvest://catalog/openCategory/?id=f27ed653-c315-4655-88b0-654ab8896e83&filters[]=manufacturer=Ё%20wheels)
+[shinka Ё-wheels](shininvest://catalog/openCategory/?id=f27ed653-c315-4655-88b0-654ab8896e83&filters[]=manufacturer=Ё-wheels)
 #### Все тесты проводить на `https://controlpublisher.napoleonit.com:8443/ `
 #### Все пароли указанны в `md5`
 
