@@ -1,2 +1,2 @@
 # НАЖМИТЕ ССЫЛКУ ВНИЗУ
-[SHININVEST ТУЦ](shininvest://service/)
+[SHININVEST open app](shininvest://)
