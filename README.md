@@ -1,5 +1,5 @@
 # НАЖМИТЕ ССЫЛКУ ВНИЗУ
-[SHININVEST deeplink](shininvest://catalog/openCategory/?id=54cf2a49-4537-4589-8091-226ea7da08af&filters[]=season=%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B5&filters[]=manufacturer=Pirelli)
+[SHININVEST deeplink](shininvest://catalog/openBanner/?id=6f848439-bce3-4cc4-8b65-e12c19910064)
 
 
 
