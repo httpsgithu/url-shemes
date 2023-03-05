@@ -3,6 +3,6 @@
 [zhopa](whatsapp://send?phone=+51000000000)
 
 
-[rive](riv://promotionList/?type=ONLINE&tags=CLIENT_DAYS)
+[rive](riv://express-delivery)
 
 
